@@ -2,7 +2,7 @@
 
 # Assignment 2: System Calls
 ## Objective
-The goal of this week's assignment 
+The goal of this week's assignment is to make you familiar with the Unix form of documentation of system calls via `man`pages.
 
 ## Required Tasks
 ### System Calls Understanding
